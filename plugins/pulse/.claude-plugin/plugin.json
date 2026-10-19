@@ -1,0 +1,15 @@
+{
+  "name": "pulse",
+  "version": "1.0.0",
+  "description": "Reports real Core Web Vitals for a page: Chrome UX Report field data plus a live Lighthouse run.",
+  "author": {
+    "name": "All the Possibles",
+    "url": "https://allthepossibles.com"
+  },
+  "homepage": "https://allthepossibles.com",
+  "repository": "https://github.com/johnhowrey/atp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mcp"
+  ]
+}

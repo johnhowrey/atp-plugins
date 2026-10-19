@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "verdict": {
+      "type": "http",
+      "url": "https://verdict.allthepossibles.com/mcp"
+    }
+  }
+}

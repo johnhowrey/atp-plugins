@@ -1,0 +1,15 @@
+{
+  "name": "preflight",
+  "version": "1.0.0",
+  "description": "Scans an MCP server for unauthenticated transport, capability overreach and known-bad signatures before an agent connects.",
+  "author": {
+    "name": "All the Possibles",
+    "url": "https://allthepossibles.com"
+  },
+  "homepage": "https://allthepossibles.com",
+  "repository": "https://github.com/johnhowrey/atp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mcp"
+  ]
+}

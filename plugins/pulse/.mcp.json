@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pulse": {
+      "type": "http",
+      "url": "https://pulse.allthepossibles.com/mcp"
+    }
+  }
+}

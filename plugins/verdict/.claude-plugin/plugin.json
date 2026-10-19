@@ -1,0 +1,15 @@
+{
+  "name": "verdict",
+  "version": "1.0.0",
+  "description": "Adversarial critique of a design, plus state matrices, journey maps, copy audits and terminology checks.",
+  "author": {
+    "name": "All the Possibles",
+    "url": "https://allthepossibles.com"
+  },
+  "homepage": "https://allthepossibles.com",
+  "repository": "https://github.com/johnhowrey/atp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mcp"
+  ]
+}

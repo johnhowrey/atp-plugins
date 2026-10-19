@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "preflight": {
+      "type": "http",
+      "url": "https://preflight.allthepossibles.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "design-check",
+  "version": "1.0.0",
+  "description": "Flags the patterns that make AI-generated UI and copy read as generic, with a concrete fix for each finding.",
+  "author": {
+    "name": "All the Possibles",
+    "url": "https://allthepossibles.com"
+  },
+  "homepage": "https://allthepossibles.com",
+  "repository": "https://github.com/johnhowrey/atp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mcp"
+  ]
+}

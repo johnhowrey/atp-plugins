@@ -1,0 +1,15 @@
+{
+  "name": "all-the-possibles",
+  "version": "1.0.0",
+  "description": "Bundle of all five All the Possibles MCP servers: Preflight, Design Check, Pulse, Verdict and Toolbox, with the Preflight and Toolbox skills.",
+  "author": {
+    "name": "All the Possibles",
+    "url": "https://allthepossibles.com"
+  },
+  "homepage": "https://allthepossibles.com",
+  "repository": "https://github.com/johnhowrey/atp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mcp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "description": "Small checks for shipping work: copy tells, HTTP headers, page meta, sitemaps, AI crawler policy, agent instruction files and more.",
+  "author": {
+    "name": "All the Possibles",
+    "url": "https://allthepossibles.com"
+  },
+  "homepage": "https://allthepossibles.com",
+  "repository": "https://github.com/johnhowrey/atp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mcp"
+  ]
+}

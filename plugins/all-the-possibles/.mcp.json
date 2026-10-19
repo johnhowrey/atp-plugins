@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "preflight": {
+      "type": "http",
+      "url": "https://preflight.allthepossibles.com/mcp"
+    },
+    "design-check": {
+      "type": "http",
+      "url": "https://designcheck.allthepossibles.com/mcp"
+    },
+    "pulse": {
+      "type": "http",
+      "url": "https://pulse.allthepossibles.com/mcp"
+    },
+    "verdict": {
+      "type": "http",
+      "url": "https://verdict.allthepossibles.com/mcp"
+    },
+    "toolbox": {
+      "type": "http",
+      "url": "https://toolbox.allthepossibles.com/mcp"
+    }
+  }
+}

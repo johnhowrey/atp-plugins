@@ -1,0 +1,46 @@
+{
+  "name": "atp-plugins",
+  "description": "MCP servers from All the Possibles as Claude Code plugins.",
+  "owner": {
+    "name": "All the Possibles",
+    "url": "https://allthepossibles.com"
+  },
+  "plugins": [
+    {
+      "name": "all-the-possibles",
+      "source": "./plugins/all-the-possibles",
+      "description": "Bundle of all five All the Possibles MCP servers: Preflight, Design Check, Pulse, Verdict and Toolbox, with the Preflight and Toolbox skills.",
+      "category": "mcp"
+    },
+    {
+      "name": "preflight",
+      "source": "./plugins/preflight",
+      "description": "Scans an MCP server for unauthenticated transport, capability overreach and known-bad signatures before an agent connects.",
+      "category": "mcp"
+    },
+    {
+      "name": "design-check",
+      "source": "./plugins/design-check",
+      "description": "Flags the patterns that make AI-generated UI and copy read as generic, with a concrete fix for each finding.",
+      "category": "mcp"
+    },
+    {
+      "name": "pulse",
+      "source": "./plugins/pulse",
+      "description": "Reports real Core Web Vitals for a page: Chrome UX Report field data plus a live Lighthouse run.",
+      "category": "mcp"
+    },
+    {
+      "name": "verdict",
+      "source": "./plugins/verdict",
+      "description": "Adversarial critique of a design, plus state matrices, journey maps, copy audits and terminology checks.",
+      "category": "mcp"
+    },
+    {
+      "name": "toolbox",
+      "source": "./plugins/toolbox",
+      "description": "Small checks for shipping work: copy tells, HTTP headers, page meta, sitemaps, AI crawler policy, agent instruction files and more.",
+      "category": "mcp"
+    }
+  ]
+}
