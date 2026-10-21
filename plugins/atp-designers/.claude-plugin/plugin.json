@@ -1,0 +1,13 @@
+{
+  "name": "atp-designers",
+  "version": "1.0.0",
+  "description": "Skills and an MCP server for designers working with AI: critique, accessibility, Nielsen heuristics, anti-slop review, UX writing, research, tracking plans, handoff, design system audits, prompting for UI and DESIGN.md.",
+  "author": {
+    "name": "All the Possibles",
+    "url": "https://allthepossibles.com"
+  },
+  "homepage": "https://designers.allthepossibles.com/docs/start",
+  "repository": "https://github.com/johnhowrey/atp-plugins",
+  "license": "MIT",
+  "keywords": ["design", "accessibility", "ux", "critique", "figma", "mcp"]
+}

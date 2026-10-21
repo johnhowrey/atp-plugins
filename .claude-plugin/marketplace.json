@@ -41,6 +41,12 @@
       "source": "./plugins/toolbox",
       "description": "Small checks for shipping work: copy tells, HTTP headers, page meta, sitemaps, AI crawler policy, agent instruction files and more.",
       "category": "mcp"
+    },
+    {
+      "name": "atp-designers",
+      "source": "./plugins/atp-designers",
+      "description": "Skills and an MCP server for designers working with AI: critique, accessibility, heuristics, anti-slop review, UX writing, research, tracking plans, handoff, design system audits, prompting for UI and DESIGN.md.",
+      "category": "design"
     }
   ]
 }

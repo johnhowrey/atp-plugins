@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "designers": {
+      "type": "http",
+      "url": "https://designers.allthepossibles.com/mcp"
+    }
+  }
+}

@@ -16,6 +16,12 @@ Then install the bundle, which wires up all five servers and both skills:
 /plugin install all-the-possibles@atp-plugins
 ```
 
+For designers working with AI (thirteen skills and the Designers server; start with the start-here skill):
+
+```
+/plugin install atp-designers@atp-plugins
+```
+
 Or install a single product:
 
 ```
